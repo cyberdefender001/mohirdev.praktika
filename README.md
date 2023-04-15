@@ -1,1 +1,1 @@
-# Projects that located here is done with the program of Mohirdev practicum.
+# These projects were done according to the program of Mohirdev practicum.
